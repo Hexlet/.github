@@ -1,7 +1,7 @@
-Хекслет — практические курсы по программированию. Мы помогаем новичкам стать профессиональными программистами, а опытным разработчикам получать новые знания и расти профессионально.
+Hexlet is a school with hands-on programming courses. We help beginners grow into qualified programmers, and we help experienced developers gain new knowledge and increase their proficiency.
 
-* **[Онлайн школа](https://ru.hexlet.io/)**
-* **[Чат сообщества](https://slack-ru.hexlet.io)**
-* **[Опенсорс проекты](https://guides.hexlet.io/how-to-be-a-helpful-for-the-hexlet-community/#открытые-проекты-github)**
-* **[Блог](https://ru.hexlet.io/blog)**
-* **[Вакансии](https://www.notion.so/hexlet/c6406ed8890747e690d32b050faf42c2)**
+* **[Online school](https://hexlet.io/)**
+* **[Community's Slack channel](https://slack.hexlet.io)**
+<!-- * **[Open source projects](https://guides.hexlet.io/how-to-be-a-helpful-for-the-hexlet-community/#открытые-проекты-github)** -->
+* **[Blog](https://hexlet.io/blog)**
+* **[Jobs](https://www.notion.so/hexlet/3015500d871a4e16a2d2c411e781424f?v=6131d9c932fd4434baece6e100371f98)**
